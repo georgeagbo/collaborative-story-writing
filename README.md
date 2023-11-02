@@ -1,2 +1,2 @@
-# collaborative-story-writing
-The Collaborative Story Writing project
+# ai_powered_story_writing
+ Collaborative Story Writing PHP scripts Project
